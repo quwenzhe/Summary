@@ -5,3 +5,4 @@
 | Repository | Owner | Language | Blog |
 | --- | --- | --- | --- |
 | <https://github.com/Rephilo/luandun> | [Rephilo](https://github.com/Rephilo) | JAVA, python, Scala大概率写不出来 |  |
+| <https://github.com/quwenzhe/leetcode> | [quwenzhe](https://github.com/quwenzhe/) | 屈文哲 |  |
